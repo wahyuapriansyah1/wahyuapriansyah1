@@ -46,6 +46,8 @@ Halo! Saya **Wahyu Apriansah**, seorang mahasiswa dan developer pemula yang seda
   <!-- 📊 Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wahyuapriansyah1&theme=tokyo-night&area=true&hide_border=false" alt="GitHub Activity Graph"/>
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuapriansyah1&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
 ---
