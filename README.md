@@ -11,7 +11,9 @@
 
 ### 🚀 About Me
 
-Halo! Saya **Wahyu Apriansah**, seorang mahasiswa dan developer pemula yang sedang menjelajahi dunia web development. Fokus saat ini: Laravel, REST API, dan aplikasi dengan aksesibilitas.
+Hai! Saya **Wahyu Apriansah**, seorang mahasiswa yang sangat bersemangat di dunia web development. Saya fokus mendalami **Laravel** untuk membangun backend yang tangguh dan merancang **REST API** yang efisien.
+
+Salah satu misi utama saya adalah menciptakan aplikasi web yang inklusif dan accessible, memastikan semua orang bisa menggunakannya dengan nyaman. 
 
 - 🌱 Sedang belajar: Laravel, Go, RESTful API  
 - 💻 Tools favorit: VSCode, Git, Postman  
