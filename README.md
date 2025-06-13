@@ -60,7 +60,7 @@ Salah satu misi utama saya adalah menciptakan aplikasi web yang inklusif dan acc
 ### ✨ Featured Projects
 
 - 🧠 [**Money Scanner for Blind**](https://www.casheye.my.id) – Aplikasi bantu tunanetra mengenali uang.
-- 📲 [**E-commerce Toko Jersey**](https://github.com/wahyuapriansyah1) – Web E-commerce Penjualan Jersey.
+- 📲 [**E-commerce Toko Jersey**](https://github.com/Ridho-syawali/toko-jersey) – Web E-commerce Penjualan Jersey.
 
 ---
 
