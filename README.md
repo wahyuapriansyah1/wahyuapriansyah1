@@ -55,7 +55,7 @@ Salah satu misi utama saya adalah menciptakan aplikasi web yang inklusif dan acc
 
 ---
 
-### ✨ Fitur Projects
+### ✨ feature Projects
 
 #### 🧠 Money Scanner for Blind
 - 📷 **Scan Uang Tunai** — Deteksi nominal uang menggunakan kamera secara realtime.
